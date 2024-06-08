@@ -1,0 +1,47 @@
+/* ReviewPage.css */
+
+.review-page {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.review-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.review-form textarea {
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    resize: none;
+}
+
+.review-form button {
+    align-self: flex-end;
+    padding: 10px 20px;
+    border: none;
+    background-color: #343a40;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.review-form button:hover {
+    background-color: #495057;
+}

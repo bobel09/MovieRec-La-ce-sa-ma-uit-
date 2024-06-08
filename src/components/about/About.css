@@ -1,0 +1,27 @@
+/* src/components/About.css */
+.about-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.about-page h1 {
+    margin-bottom: 20px;
+}
+
+.about-page img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.about-page p {
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+
+.about-page strong {
+    font-weight: bold;
+}

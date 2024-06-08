@@ -1,0 +1,54 @@
+/* App.css */
+
+.App {
+  text-align: center;
+}
+
+.landing-page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #282c34;
+  color: white;
+}
+
+.landing-header {
+  text-align: center;
+}
+
+.landing-link {
+  margin: 0 15px;
+  color: #61dafb;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.landing-link:hover {
+  text-decoration: underline;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App-link {
+  color: #61dafb;
+}
