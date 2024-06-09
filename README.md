@@ -14,36 +14,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## About the app 
+It's a web based React app that provides login/signup through firebase where you can search movies and leave a review for the movies and see other reviews.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1710" alt="Screenshot 2024-06-09 at 2 45 22 PM" src="https://github.com/bobel09/MovieRec-La-ce-sa-ma-uit-/assets/116968858/0105a4a9-3315-40c2-bfbf-b6b491d249a5">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This is the landing page where u can login and signup.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1710" alt="Screenshot 2024-06-09 at 2 46 53 PM" src="https://github.com/bobel09/MovieRec-La-ce-sa-ma-uit-/assets/116968858/14049b16-c347-455b-8035-83f8897e83e5">
 
-### `npm run eject`
+After the Log In you will be redirected to the home page.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="1710" alt="Screenshot 2024-06-09 at 2 47 47 PM" src="https://github.com/bobel09/MovieRec-La-ce-sa-ma-uit-/assets/116968858/2285ffac-f44b-42d4-8002-c72e08fde524">
 
 ### Code Splitting
 
